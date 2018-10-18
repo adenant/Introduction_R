@@ -20,6 +20,12 @@ setwd()
 # getting information about the working directory/folder
 getwd()
 
+# Installing packages
+install.packages("car")
+
+# Loading up a package
+library(car)
+
 
 ##############################################
 # 2. Demo of R as an over-powered calculator
